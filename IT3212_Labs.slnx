@@ -1,3 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.txt" />
+  </Folder>
   <Project Path="Lab01_Console/Lab01_Console..csproj" />
+  <Project Path="Lab02_OOPBasics/Lab02_OOPBasics.csproj" Id="74d25a36-e2d8-459d-ba74-5389cfa6130d" />
 </Solution>
